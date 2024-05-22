@@ -1,0 +1,23 @@
+#container{
+    background-color: silver;
+}
+
+.jobb{
+    text-align: right;
+}
+
+.size{
+    background-color: grey;
+    color: black;
+    width: 900px;
+    height: 400px;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+}
